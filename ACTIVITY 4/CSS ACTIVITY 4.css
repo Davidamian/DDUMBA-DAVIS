@@ -1,0 +1,31 @@
+/* Header */
+        header {
+            background-color: yellow;
+            color: black;
+            padding: 10px 0;
+            text-align: center;
+			font-weight:bold;
+			text-transform:uppercase;
+			color:darkblue;
+			text-shadow:1px 1px 3px rbga(0,0,0,0.3);
+        }
+.intro, .about, .services, .registration {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 55px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 2);
+			color:GREEN
+        };
+		/* Services Section */
+        .services ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        } 
+		div.footer{background-color:black;
+		padding:20px;
+		border-radius:55px;
+		box-shadow: 0 2px 5px rbga(0,0,0,0.3);
+		} 
+		.menu{
+			float:left;
+		} 

@@ -1,0 +1,11 @@
+/* Header */
+        header {
+            background-color: yellow;
+            color: black;
+            padding: 10px 0;
+            text-align: center;
+			font-weight:bold;
+			text-transform:uppercase;
+			color:darkblue;
+			text-shadow:1px 1px 3px rbga(0,0,0,0.3);
+        }

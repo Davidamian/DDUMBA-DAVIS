@@ -1,0 +1,11 @@
+
+header{
+	background-color:gray;
+	margin:5px;
+	border:200px green;
+	height:300px;
+	width:80%;
+	border-shadow:3px 2px 2px;
+	color:red;
+	text-align:center;
+}
